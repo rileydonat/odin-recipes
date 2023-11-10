@@ -1,0 +1,26 @@
+/* style.css */
+
+* {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.head{
+    color: brown;
+}
+
+.base{
+    background-color: orange;
+}
+
+ul, ol {
+    background-color: aquamarine;
+}
+
+p {
+    font-size: 36px;
+}
+
+li{
+    font-size: 18px;
+}
