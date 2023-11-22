@@ -4,8 +4,12 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.board{
+    background-color: darkolivegreen;
+}
+
 .head{
-    color: brown;
+    color: orange;
     text-align: center;
     margin-bottom: 10px;
 }
@@ -14,6 +18,7 @@
     background-color: orange;
     border-style: groove;
     border-width: 8px;
+    border-color: brown;
 }
 
 .set{  
