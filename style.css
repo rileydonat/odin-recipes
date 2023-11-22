@@ -9,12 +9,12 @@
 }
 
 .head{
-    color: orange;
+    color: brown;
     text-align: center;
     margin-bottom: 10px;
 }
 
-.base{
+.base, .recipe, .head{
     background-color: orange;
     border-style: groove;
     border-width: 8px;
@@ -28,7 +28,7 @@
 }
 
 ul, ol {
-    background-color: aquamarine;
+    background-color: orange;
 }
 
 p {
