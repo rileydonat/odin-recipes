@@ -14,7 +14,7 @@
     margin-bottom: 10px;
 }
 
-.base, .recipe, .head{
+.base, .recipe, .head, .write{
     background-color: orange;
     border-style: groove;
     border-width: 8px;
@@ -41,4 +41,8 @@ li{
 
 h3{
     text-align: center;
+}
+
+.recipe{
+    margin-top: 10px;
 }
