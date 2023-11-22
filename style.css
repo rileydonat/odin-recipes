@@ -1,16 +1,25 @@
 /* style.css */
 
 * {
-    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .head{
     color: brown;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .base{
     background-color: orange;
+    border-style: groove;
+    border-width: 8px;
+}
+
+.set{  
+    width: 250px;
+    margin: 0 auto;
+    text-align: left;
 }
 
 ul, ol {
